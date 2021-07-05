@@ -1,0 +1,15 @@
+.box1 {
+  background-color: yellowgreen;
+  width: 200px;
+  height: 200px;
+}
+.box2 {
+  background-color: tomato;
+  width: 100px;
+  height: 100px;
+}
+.text-format {
+  color: black;
+  font-size: 30px;
+  font-family: monospace;
+}
